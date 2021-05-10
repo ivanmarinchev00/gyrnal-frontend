@@ -1,0 +1,37 @@
+.createWorkout-block {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  
+  .createWorkout-block input {
+    background: #3472c1;
+    border: 0;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  .createWorkout-block input::placeholder {
+    color: #fff;
+    font-weight: 700;
+  }
+  
+  .createWorkout-block button {
+    border: 0;
+    padding: 10px;
+    background: #3472c1;
+    color: #fff;
+    font-weight: 900;
+  }
+  .journey{
+    text-align: center;
+    font-size:80px;
+    color:indigo;
+  }
+  .btnStart{
+    position: absolute;
+    top: 50%;
+    left: 50%;;
+  }
